@@ -12,6 +12,8 @@ Websites:
   --foreground: 225 225 225;
   --muted: 115 115 115;
   --accent: 254 254 91; #FEFE5B
+
+
 }
 
 */
